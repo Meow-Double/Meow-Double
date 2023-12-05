@@ -1,10 +1,9 @@
-
 ### Привет мир! 👋
 
 ---
 
 🧠 Изучаю фронтенд \
-🌍 Живу в Беларуси.
+🌍 Живу в Беларуси. 
 
 ### 💻Технологии:
 
@@ -59,6 +58,12 @@
   <a/>
 </div>
 
+### ⚒️ Инструменты:
+<div>
+  <img width="36" src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma">
+  <img width="36" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="photoshop">
+  <img width="36" src="https://icon.icepanel.io/Technology/svg/Sketch.svg" alt="sketch">
+</div>
 
 _____________________
 <a href="https://www.github.com/Meow-Double" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow -Double?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
