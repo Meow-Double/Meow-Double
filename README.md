@@ -45,14 +45,22 @@
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind">
   <a/>
   <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="materialUI">
-  <a/>
-  <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap">
   <a/>
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git">
   <a/>
+</div>
+
+### 🎨 UI Библиотеки
+
+<div>
+    <a href="!#">
+      <img width="36" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="materialUI">
+    <a/>
+    <a href="!#">
+      <img width="36" src="	https://img.icons8.com/?size=256&id=r9QJ0VFFrn7T&format=png" alt="chakraUI">
+    <a/>
 </div>
 
 ### ⚒️ Инструменты:
