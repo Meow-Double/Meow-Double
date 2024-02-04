@@ -52,14 +52,14 @@
   <a/>
 </div>
 
-### 🎨 UI Библиотеки
+### 🎨 UI Библиотеки:
 
 <div>
     <a href="!#">
       <img width="36" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="materialUI">
     <a/>
     <a href="!#">
-      <img width="36" src="	https://img.icons8.com/?size=256&id=r9QJ0VFFrn7T&format=png" alt="chakraUI">
+      <img width="36" src="https://icons8.com/icon/r9QJ0VFFrn7T/chakra-ui" alt="chakraUI">
     <a/>
 </div>
 
