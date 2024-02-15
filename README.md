@@ -56,7 +56,13 @@
 
 <div>
     <a href="!#">
+      <img width="36" src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logomark-colored.svg" alt="ChakraUI">
+    <a/>
+    <a href="!#">
       <img width="36" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="materialUI">
+    <a/>
+      <a href="!#">
+      <img width="36" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design">
     <a/>
 </div>
 
