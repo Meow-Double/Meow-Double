@@ -27,9 +27,6 @@
     <img width="36" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jquery">
   <a/>
   <a href="!#">
-    <img width="36" src="https://icon.icepanel.io/Technology/svg/Babel.svg" alt="babel">
-  <a/>
-  <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Gulp.js.svg" alt="gulp">
   <a/>
   <a href="!#">
@@ -76,8 +73,11 @@
       <img width="36" src="https://cdn.iconscout.com/icon/free/png-256/free-eslint-3521412-2944856.png" alt="Eslint">
     <a/>
       <a href="!#">
-      <img width="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stylelint_icon_130141.png" alt="Ant Design">
+      <img width="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stylelint_icon_130141.png" alt="Stylelint">
     <a/>
+    <a href="!#">
+    <img width="36" src="https://icon.icepanel.io/Technology/svg/Babel.svg" alt="babel">
+  <a/>
 </div>
 
 ### ⚒️ Инструменты:
