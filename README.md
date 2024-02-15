@@ -66,6 +66,20 @@
     <a/>
 </div>
 
+### 📃 Плагины для кода:
+
+<div>
+    <a href="!#">
+      <img width="36" src="https://prettier.io/icon.png" alt="Prettier">
+    <a/>
+    <a href="!#">
+      <img width="36" src="https://cdn.iconscout.com/icon/free/png-256/free-eslint-3521412-2944856.png" alt="Eslint">
+    <a/>
+      <a href="!#">
+      <img width="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stylelint_icon_130141.png" alt="Ant Design">
+    <a/>
+</div>
+
 ### ⚒️ Инструменты:
 <div>
   <img width="36" src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma">
