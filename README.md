@@ -47,6 +47,16 @@
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git">
   <a/>
+  <a href="!#">
+    <img width="36" src="https://iconape.com/wp-content/png_logo_vector/react-router.png" alt="router">
+  <a/>
+  <a href="!#">
+    <img width="36" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="form">
+  <a/>
+    <a href="!#">
+    <img width="36" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="query">
+  <a/>
+
 </div>
 
 ### 🎨 UI Библиотеки:
