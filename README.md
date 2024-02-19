@@ -23,6 +23,9 @@
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="redux">
   <a/>
+    <a href="!#">
+    <img width="36" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" alt="jest">
+  <a/>
   <a href="!#">
     <img width="36" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jquery">
   <a/>
