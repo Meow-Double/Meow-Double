@@ -83,6 +83,7 @@
 [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Vyacheslav-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vyacheslav-pugachev-7843292b1/)](https://www.linkedin.com/in/vyacheslav-pugachev-7843292b1/) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Vyacheslav-blue?style=social-square&logo=Telegram&logoColor=white&link=https://t.me/Meow_Double)](https://t.me/Meow_Double) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Vyacheslav-blue?style=social-square&logo=Vk&logoColor=white&link=https://vk.com/id492851216)](https://vk.com/id492851216)
 
 <h2>My Projects:</h2>
+
 <div>
 <table width="960px">
 <tr>
@@ -91,7 +92,7 @@
 <a href="https://meow-double.github.io/crypto-app/">crypto-app
 </a></strong>
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="66%">
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Ant design](https://img.shields.io/badge/Ant_Design-F74354?style=flat&logo=ant-design&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=flat&logo=Vite&logoColor=FFCD25) ![Prettier](https://img.shields.io/badge/Prettier-1D2E37?style=flat&logo=Prettier&logoColor=white) ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=flat&logo=Stylelint&logoColor=white)
 
@@ -119,7 +120,6 @@
 </td>
 </tr>
 <tr>
-<tr>
 <td valign="top" width="33%">
 <strong><a href="https://meow-double.github.io/QSolutions/">QSolutions</a></strong>
 </td>
@@ -139,7 +139,6 @@
 
 </td>
 </tr>
-<tr>
 </div>
 
 <br>
@@ -148,8 +147,3 @@
 <!-- <img src="https://i.gifer.com/GiZi.gif"> -->
 <!-- <img src="https://i.gifer.com/EHfw.gif"> -->
 
-<div>
-
-
-
-</div>
