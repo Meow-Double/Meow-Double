@@ -1,4 +1,4 @@
-<h2 align="center">Hello world 👋, Welcome to my profile<img src="https://i.gifer.com/6vw5.gif?raw=true" width="50"></h2>
+<h2 align="center">Hello world 👋, Welcome to my profile<img src="./assets/pockemon.gif" width="50"></h2>
 
 <!-- <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://i.gifer.com/3BBF.gif" width="30">
@@ -7,7 +7,7 @@
 
 <!-- <div align="center"><i>I'm a Front-End developer</i></div> -->
 
-<img align="right" src="https://i.gifer.com/XOsX.gif?raw=true" width="230">
+<img align="right" src="./assets/duck.gif" width="230">
 <!-- <p>Technology:</p> -->
 <!-- <span> -->
 <div align="left">
@@ -34,7 +34,7 @@
 <b>years old:</b> 19
 </li>
 </ul>
-<a href="https://www.github.com/Meow-Double" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow-Double?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a><img src="https://i.gifer.com/5UKD.gif?raw=true" width="60">
+<a href="https://www.github.com/Meow-Double" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow-Double?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a><img src="./assets/panda.gif" width="60">
 </div>
 <!-- <img src="https://i.gifer.com/3BBF.gif" width="60"> -->
 
