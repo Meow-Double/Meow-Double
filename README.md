@@ -68,7 +68,7 @@
 
 <h4>🎨 UI libraries:</h4>
 
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-blue?style=for-the-badge&logo=mui&logoColor=white) ![Ant design](https://img.shields.io/badge/Ant_Design-F74354?style=for-the-badge&logo=ant-design&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-blue?style=for-the-badge&logo=mui&logoColor=white) ![Ant design](https://img.shields.io/badge/Ant_Design-F74354?style=for-the-badge&logo=ant-design&logoColor=white) ![shadcnui](https://img.shields.io/badge/Shadcn--UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 <h4>⚒️ Tools:</h4>
 
@@ -108,7 +108,7 @@
 </tr>
 <tr>
 <td valign="top" width="33%">
-<strong><a href="#!">LeanGroup</a></strong>
+<strong><a href="https://meow-double.github.io/LeanGroup/">LeanGroup</a></strong>
 </td>
 <td valign="top" width="33%">
 
