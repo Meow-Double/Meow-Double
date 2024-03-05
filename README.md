@@ -61,10 +61,6 @@
 
 ![Prettier](https://img.shields.io/badge/Prettier-1D2E37?style=for-the-badge&logo=Prettier&logoColor=white) ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=Stylelint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-263238?style=for-the-badge&logo=Babel&logoColor=F9DC3E) 
 
-<div>
-<img align="right" src="./assets/duck.gif" width="320">
-</div>
-
 
 <h4>🎨 UI libraries:</h4>
 
