@@ -55,7 +55,8 @@
 ![JQuery](https://img.shields.io/badge/JQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=BA8FFF) ![React-router-dom](https://img.shields.io/badge/React--router--dom-424242?style=for-the-badge&logo=react-router&logoColor=62DAFB) ![React-hook-form](https://img.shields.io/badge/React--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=fff) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=React-query&logoColor=white) \
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-C21325?style=for-the-badge&logo=TestingLibrary&logoColor=white) \
 ![Gulp](https://img.shields.io/badge/Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=for-the-badge&logo=Vite&logoColor=FFCD25) \
-![Json](https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-28333A?style=for-the-badge&logo=GitKraken&logoColor=179287)
+![Json](https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-28333A?style=for-the-badge&logo=GitKraken&logoColor=179287) \
+![Node](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
 <h4>📃 Plugins for code:</h4>
 
