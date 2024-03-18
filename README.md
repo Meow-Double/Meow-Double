@@ -55,10 +55,9 @@
 ![JQuery](https://img.shields.io/badge/JQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=BA8FFF) ![React-router-dom](https://img.shields.io/badge/React--router--dom-424242?style=for-the-badge&logo=react-router&logoColor=62DAFB) ![React-hook-form](https://img.shields.io/badge/React--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=fff) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=React-query&logoColor=white) \
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-C21325?style=for-the-badge&logo=TestingLibrary&logoColor=white) \
 ![Gulp](https://img.shields.io/badge/Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=for-the-badge&logo=Vite&logoColor=FFCD25) \
-![Json](https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-28333A?style=for-the-badge&logo=GitKraken&logoColor=179287) \
 ![Node](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
-<h4>📃 Plugins for code:</h4>
+<h4>📃 DevTools:</h4>
 
 ![Prettier](https://img.shields.io/badge/Prettier-1D2E37?style=for-the-badge&logo=Prettier&logoColor=white) ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=Stylelint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-263238?style=for-the-badge&logo=Babel&logoColor=F9DC3E) 
 
@@ -69,74 +68,10 @@
 
 <h4>⚒️ Tools:</h4>
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-222222?style=for-the-badge&logo=Sketch&logoColor=F7B500)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-28333A?style=for-the-badge&logo=GitKraken&logoColor=179287) ![Json](https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) \
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-222222?style=for-the-badge&logo=Sketch&logoColor=F7B500) 
 
-<h4>🌐 IDE, which I use:</h4>
-
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-<br>
-
-<h2>📁 My Projects:</h2>
-
-<table width="960px">
-<tr>
-<td valign="top" width="33%">
-<strong>
-<a href="https://meow-double.github.io/crypto-app/">crypto-app
-</a></strong>
-</td>
-<td valign="top" width="66%">
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Ant design](https://img.shields.io/badge/Ant_Design-F74354?style=flat&logo=ant-design&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=flat&logo=Vite&logoColor=FFCD25) ![Prettier](https://img.shields.io/badge/Prettier-1D2E37?style=flat&logo=Prettier&logoColor=white) ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=flat&logo=Stylelint&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-<strong>
-<a href="https://meow-double.github.io/MidasMarket/">MidasMarket</a></strong>
-</td>
-<td valign="top" width="33%">
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Sass/Scss](https://img.shields.io/badge/Sass/Scss-CB6699?style=flat&logo=sass&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-323330?style=fflat&logo=redux&logoColor=BA8FFF) ![React-router-dom](https://img.shields.io/badge/React--router--dom-424242?style=flat&logo=react-router&logoColor=62DAFB) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=flat&logo=Vite&logoColor=FFCD25)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-<strong><a href="https://meow-double.github.io/LeanGroup/">LeanGroup</a></strong>
-</td>
-<td valign="top" width="33%">
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Sass/Scss](https://img.shields.io/badge/Sass/Scss-CB6699?style=flat&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![JQuery](https://img.shields.io/badge/JQuery-0868AC?style=flat&logo=jquery&logoColor=fff) ![Gulp](https://img.shields.io/badge/Gulp-EB4A4B?style=flat&logo=gulp&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-<strong><a href="https://meow-double.github.io/QSolutions/">QSolutions</a></strong>
-</td>
-<td valign="top" width="33%">
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![Gsap](https://img.shields.io/badge/Gsap-333331?style=flat&logo=greensock&logoColor=88CE02)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-<strong><a href="https://meow-double.github.io/PascalVent/">PascalVent</a></strong>
-</td>
-<td valign="top" width="33%">
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![Gsap](https://img.shields.io/badge/Gsap-333331?style=flat&logo=greensock&logoColor=88CE02)
-
-</td>
-</tr>
-</table>
-
-
-<br>
+### My way: soon...
 
 #### My social links:
 
