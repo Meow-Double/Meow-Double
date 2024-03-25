@@ -53,14 +53,16 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass/Scss](https://img.shields.io/badge/Sass/Scss-CB6699?style=for-the-badge&logo=sass&logoColor=white) ![Styled-components](https://img.shields.io/badge/Styled--components-CB6699?style=for-the-badge&logo=styled-components&logoColor=FFD361) ![Css-Modules](https://img.shields.io/badge/Css--Modules-1C6EAE?style=for-the-badge&logo=css-modules&logoColor=fff) ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=fff) \
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff) \
 ![JQuery](https://img.shields.io/badge/JQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=BA8FFF) ![React-router-dom](https://img.shields.io/badge/React--router--dom-424242?style=for-the-badge&logo=react-router&logoColor=62DAFB) ![React-hook-form](https://img.shields.io/badge/React--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=fff) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=React-query&logoColor=white) \
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-C21325?style=for-the-badge&logo=TestingLibrary&logoColor=white) \
 ![Gulp](https://img.shields.io/badge/Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=for-the-badge&logo=Vite&logoColor=FFCD25) \
 ![Node](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
-<h4>📃 DevTools:</h4>
+<h4>📃 Testing:</h4>
 
-![Prettier](https://img.shields.io/badge/Prettier-1D2E37?style=for-the-badge&logo=Prettier&logoColor=white) ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=Stylelint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-263238?style=for-the-badge&logo=Babel&logoColor=F9DC3E) 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-C21325?style=for-the-badge&logo=TestingLibrary&logoColor=white) 
 
+<h4>📃 Code quality:</h4>
+
+![Prettier](https://img.shields.io/badge/Prettier-1D2E37?style=for-the-badge&logo=Prettier&logoColor=white) ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white) ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=Stylelint&logoColor=white)
 
 <h4>🎨 UI libraries:</h4>
 
