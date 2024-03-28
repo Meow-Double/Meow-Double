@@ -56,7 +56,7 @@
 ![Gulp](https://img.shields.io/badge/Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-8082FF?style=for-the-badge&logo=Vite&logoColor=FFCD25) \
 ![Node](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
-<h4>📃 Testing:</h4>
+<h4>🔧 Testing:</h4>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-C21325?style=for-the-badge&logo=TestingLibrary&logoColor=white) 
 
@@ -73,7 +73,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-28333A?style=for-the-badge&logo=GitKraken&logoColor=179287) ![Json](https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) \
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-222222?style=for-the-badge&logo=Sketch&logoColor=F7B500) 
 
-### My way: soon...
+### 📋 My Resume: soon...
 
 #### My social links:
 
