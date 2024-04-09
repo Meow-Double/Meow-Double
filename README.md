@@ -47,7 +47,10 @@ Japanese: N5
 <!-- ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
 <!-- <span><img src="https://i.gifer.com/3BBF.gif" width="30"></span> -->
 
-<div align="left">
+
+
+<div>
+<span align="left">
 
  ### Сейчас играет — Spotify 🎧
  
@@ -56,7 +59,17 @@ Japanese: N5
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3c5abc&bar_color_cover=false"/>
  </a>
 </p>
+</span>
+
+<span align="left">
+ 
+[![Discord Presence](https://lanyard.kyrie25.me/api/461120123147780116)](https://discord.com/users/461120123147780116)
+</span>
+ 
 </div>
+
+
+
 
 <h4>💻 Tech stack:</h4>
 
