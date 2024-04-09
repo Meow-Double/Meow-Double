@@ -7,7 +7,7 @@
 <!-- <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://i.gifer.com/3BBF.gif" width="30">
 </em></p> -->
-<div align="center"> <img src="./assets/baner.png"/>
+<div align="center"> <img src="https://github.com/Meow-Double/Meow-Double/blob/main/assets/baner.png"/>
 </div>
  <h2 >${\color{#ffffff} \textbf{Hello~world~👋,~Welcome~to~my~profile}}$ </h2> 
 <!-- <div align="center"><i>I'm a Front-End developer</i></div> -->
