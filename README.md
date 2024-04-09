@@ -48,12 +48,12 @@ Japanese: N5
 <!-- <span><img src="https://i.gifer.com/3BBF.gif" width="30"></span> -->
 
 <div align="left">
- 
+
  ### Сейчас играет — Spotify 🎧
  
 <p> 
  <a href="https://open.spotify.com/user/31zsfjazugx4nipzslbutk72oqwa">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=3c5abc&bar_color_cover=TRUE"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3c5abc&bar_color_cover=false"/>
  </a>
 </p>
 </div>
