@@ -26,7 +26,7 @@
 - 👦 &nbsp;I'm Slava
 - 💻 &nbsp; Front-End developer
 - 💘 &nbsp; Loves coding, games, anime
-- 🎮 &nbsp; Hobbys - Web~ ite coding, skiing, gymnasium 
+- 🎮 &nbsp; Hobbys - Web site coding, skiing, gymnasium 
 - ⌚ &nbsp; I'm 19 years old
    🦆🦆🦆🦆🦆🦆🦆
 </div>
