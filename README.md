@@ -9,7 +9,7 @@
 </em></p> -->
 <div align="center"> <img src="https://github.com/Meow-Double/Meow-Double/blob/main/assets/baner.png"/>
 </div>
- <h2 >${\color{#ffffff} \textbf{Hello~world~👋,~Welcome~to~my~profile}}$ </h2> 
+ <h2 >Hello world 👋, Welcome to my profile </h2> 
 <!-- <div align="center"><i>I'm a Front-End developer</i></div> -->
 
 <!-- <img align="right" src="./assets/duck.gif" width="230"> -->
