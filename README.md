@@ -61,10 +61,10 @@ Japanese: N5
 </p>
 </span>
 
-<span align="left">
+<!-- <span align="left">
  
 [![Discord Presence](https://lanyard.kyrie25.me/api/461120123147780116)](https://discord.com/users/461120123147780116)
-</span>
+</span> -->
  
 </div>
 
