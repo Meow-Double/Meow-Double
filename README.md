@@ -21,14 +21,16 @@
 
 <div align="left">
  
-<h4> ${\color{#ffffff} \textbf{ About me}}$ </h4>
+<!-- <h4> ${\color{#ffffff} \textbf{ About me}}$ </h4> -->
+
+#### About me
 
 - 👦 &nbsp;I'm Slava
 - 💻 &nbsp; Front-End developer
 - 💘 &nbsp; Loves coding, games, anime
 - 🎮 &nbsp; Hobbys - Web site coding, skiing, gymnasium 
-- ⌚ &nbsp; I'm 19 years old
-   🦆🦆🦆🦆🦆🦆🦆
+- ⌚ &nbsp; I'm 19 years old \
+🦆🦆🦆🦆🦆🦆🦆
 </div>
 
 <!-- <h4> ${\color{#ffffff} \textbf{ Language skills}}$ </h4>
@@ -52,7 +54,7 @@ Japanese: N5
 <div>
 <span align="left">
 
- ### Сейчас играет — Spotify 🎧
+ #### Playing now — Spotify 🎧
  
 <p> 
  <a href="https://open.spotify.com/user/31zsfjazugx4nipzslbutk72oqwa">
