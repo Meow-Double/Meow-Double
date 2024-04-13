@@ -99,6 +99,21 @@ Japanese: N5
 ![Git](https://img.shields.io/badge/GIT-3C5ABC?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-3C5ABC?style=for-the-badge&logo=GitKraken&logoColor=white) ![Json](https://img.shields.io/badge/Json-3C5ABC?style=for-the-badge&logo=json&logoColor=white) \
 ![Photoshop](https://img.shields.io/badge/Photoshop-3C5ABC?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-3C5ABC?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-3C5ABC?style=for-the-badge&logo=Sketch&logoColor=white) 
 
+<br/>
+
+
+
+<div align="left">
+
+ ![meow-double's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meow-double&theme=tokyonight&hide_border=false)
+ 
+ ![meow-double's Stats](https://github-readme-stats.vercel.app/api?username=meow-double&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+ 
+ ![meow-double's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meow-double&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
+
 <!-- ### 📋 My Resume: soon... -->
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol) -->
