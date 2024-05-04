@@ -131,7 +131,7 @@ The next phase is an abundant study of JS. In late spring, I begin to improve my
 After that, I increase my experience and move on to learning algorithms. 
 
 ### Era III - Path to Junior
-I didn't manage to learn all the algorithms, I realized that I didn't need it yet. I started learning React a year later - October 1, 2023. I familiarized myself with the concepts of Jsx, props, functional components, rendering, component lifecycle, virtual tree DOMm hooks. From hooks I am familiarizing myself with -useState, useEffect, useRef, useMemo, useCallback, React memo, useContext. After that I wish my first projects.
+I didn't manage to learn all the algorithms, I realized that I didn't need it yet. I started learning React a year later - October 1, 2023. I familiarized myself with the concepts of Jsx, props, functional components, rendering, component lifecycle, virtual tree DOM, hooks. From hooks I am familiarizing myself with -useState, useEffect, useRef, useMemo, useCallback, React memo, useContext. After that I wish my first projects.
 Then I study Redux, and implement a couple of examples. After which I promptly go into studying Redux Toolkit and TypeScript. I study all this and make my first project on TS (spoiler - the project turned out terrible). I join my first organization where I learn how to work in a team. There we make a huge commercial project (Spoiler - everything failed). I leave the organization and start doing my own code, learn a bit of backend. I get acquainted with express and do a couple of not complicated projects.
 
 ### Era IV - Rethinking code
