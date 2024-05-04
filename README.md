@@ -3,7 +3,6 @@
 
 
 
-
 <!-- <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://i.gifer.com/3BBF.gif" width="30">
 </em></p> -->
@@ -102,8 +101,11 @@ Japanese: N5
 <br/>
 
 
+<details>
+  <summary><strong>My statistics</strong></summary>
 
-<div align="left">
+  <br />
+  <div align="left">
 
  ![meow-double's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meow-double&theme=tokyonight&hide_border=false)
  
@@ -112,6 +114,34 @@ Japanese: N5
  ![meow-double's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meow-double&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </div>
+
+</details>
+
+
+<details>
+  <summary><strong>My Roadmap</strong></summary>
+
+  <br />
+
+ ### Era I - Beginning of the journey
+August 22, 2022 I am starting to learn the frontend. I learn html and css first. After that, I start making my first website by video. It took about a month to do all this. Then practice starts, during which I improve my layout knowledge and learn BEM methodology. After 3 months I start learning JavaScript base of the language, then the browser part. I consolidate JavaScript in practice. After 5 months I start learning Gulp and Scss. After a couple weeks I learn jQuery. Practicing on projects where I learn how to use jQuery plugins for quick implementation. After 7 months, I start learning Git. The way forward is practicing and learning different JS libraries. This is how I get acquainted with Gsap from GreenSock and start animating my projects. 
+
+### Era II - Abundant Learning
+The next phase is an abundant study of JS. In late spring, I begin to improve my knowledge of JavaScript. I implement custom UI elements - popups, modals, dropdowns, accordions, tooltips, checkboxes, selectors, drag & drop, etc.
+After that, I increase my experience and move on to learning algorithms. 
+
+### Era III - Path to Junior
+I didn't manage to learn all the algorithms, I realized that I didn't need it yet. I started learning React a year later - October 1, 2023. I familiarized myself with the concepts of Jsx, props, functional components, rendering, component lifecycle, virtual tree DOMm hooks. From hooks I am familiarizing myself with -useState, useEffect, useRef, useMemo, useCallback, React memo, useContext. After that I wish my first projects.
+Then I study Redux, and implement a couple of examples. After which I promptly go into studying Redux Toolkit and TypeScript. I study all this and make my first project on TS (spoiler - the project turned out terrible). I join my first organization where I learn how to work in a team. There we make a huge commercial project (Spoiler - everything failed). I leave the organization and start doing my own code, learn a bit of backend. I get acquainted with express and do a couple of not complicated projects.
+
+### Era IV - Rethinking code
+I am beginning to get acquainted with FSD architecture. I implement a couple of projects on it. After that I begin to be a fan of this approach. Then I watch videos of various youtubers and realize that my code is not ideal. Having reconsidered my code and projects, I start practicing abundantly. In the course of practice, I chase clean code, so I study such principles of the approach as SOLID, KIS, DRY. I'm rethinking typing in TypeScript. Practicing. As a result, I learn the tools for implementing clean code - prettier and eslint. I start not just writing code, but thinking about what and why. Thus, I realize that FSD should not be dragged into all projects. After 6 months of studying prettier, I am improving my knowledge and my code.
+
+### Era V - Leadership Skills
+I start to realize a joint project with a friend, where I become a team leader. I create my own organization. In it I make a repository kernel - where all the configs for the projects are contained. Then with a friend we design the project and start to realize it. 
+This path is still ongoing at the moment, so you can follow me as I become a Middle Developer by subscribing to me beforehand. Thank you so much for reading all of this. This block was made to keep my story alive.
+</details>
+
 
 
 <!-- ### 📋 My Resume: soon... -->
