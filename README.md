@@ -98,7 +98,7 @@ Japanese: N5
 ![Git](https://img.shields.io/badge/GIT-3C5ABC?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/Git_Kraken-3C5ABC?style=for-the-badge&logo=GitKraken&logoColor=white) \
 ![Photoshop](https://img.shields.io/badge/Photoshop-3C5ABC?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-3C5ABC?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-3C5ABC?style=for-the-badge&logo=Sketch&logoColor=white) \
 ![Jira](https://img.shields.io/badge/Jira-3C5ABC?style=for-the-badge&logo=Jira&logoColor=white) 
-
+![confluence](https://img.shields.io/badge/confluence-3C5ABC?style=for-the-badge&logo=confluence&logoColor=white) 
 <br/>
 
 
