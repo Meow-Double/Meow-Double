@@ -122,7 +122,6 @@ Japanese: N5
 <details>
   <summary><strong>My Roadmap</strong></summary>
 
-  <br />
 
  ### Era I - Beginning of the journey
 August 22, 2022 I am starting to learn the frontend. I learn html and css first. After that, I start making my first website by video. It took about a month to do all this. Then practice starts, during which I improve my layout knowledge and learn BEM methodology. After 3 months I start learning JavaScript base of the language, then the browser part. I consolidate JavaScript in practice. After 5 months I start learning Gulp and Scss. After a couple weeks I learn jQuery. Practicing on projects where I learn how to use jQuery plugins for quick implementation. After 7 months, I start learning Git. The way forward is practicing and learning different JS libraries. This is how I get acquainted with Gsap from GreenSock and start animating my projects. 
@@ -141,6 +140,23 @@ I am beginning to get acquainted with FSD architecture. I implement a couple of 
 ### Era V - Leadership Skills
 I start to realize a joint project with a friend, where I become a team leader. I create my own organization. In it I make a repository kernel - where all the configs for the projects are contained. Then with a friend we design the project and start to realize it. 
 This path is still ongoing at the moment, so you can follow me as I become a Middle Developer by subscribing to me beforehand. Thank you so much for reading all of this. This block was made to keep my story alive.
+</details>
+
+
+
+<details>
+  <summary><strong>My pet projects</strong></summary>
+
+  <div align="left">
+
+  ### Team Projects
+   
+| Name Projects | Status | Links |
+| ------------- | ------------- | ------------- |
+| <a href="https://github.com/ResEmCode/Freelance-Exchange">Freelance-Exchange</a> | `in work` | <a href="https://resemcode.github.io/Freelance-Exchange">view</a> |
+
+</div>
+
 </details>
 
 
