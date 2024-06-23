@@ -91,7 +91,7 @@ Japanese: N5
 
 <h4>🎨 UI libraries:</h4>
 
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-3C5ABC?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-3C5ABC?style=for-the-badge&logo=mui&logoColor=white) ![Ant design](https://img.shields.io/badge/Ant_Design-3C5ABC?style=for-the-badge&logo=ant-design&logoColor=white) ![shadcnui](https://img.shields.io/badge/Shadcn--UI-3C5ABC?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-3C5ABC?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-3C5ABC?style=for-the-badge&logo=mui&logoColor=white) ![Ant design](https://img.shields.io/badge/Ant_Design-3C5ABC?style=for-the-badge&logo=ant-design&logoColor=white) ![shadcnui](https://img.shields.io/badge/Shadcn--UI-3C5ABC?style=for-the-badge&logo=shadcnui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine--UI-3C5ABC?style=for-the-badge&logo=mantine&logoColor=white)
 
 <h4>⚒️ Tools:</h4>
 
