@@ -18,19 +18,54 @@
 [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Linkedin-E0244D?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Linkedin-pugachev-7843292b1/)](https://www.linkedin.com/in/vyacheslav-pugachev-7843292b1/) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Telegram-E0244D?style=social-square&logo=Telegram&logoColor=white&link=https://t.me/Meow_Double)](https://t.me/Meow_Double) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Vkontakte-E0244D?style=social-square&logo=Vk&logoColor=white&link=https://vk.com/id492851216)](https://vk.com/id492851216) [![Discord: Vyacheslav](https://img.shields.io/badge/-Discord-E0244D?style=social-square&logo=discord&logoColor=white&link=https://discordapp.com/users/461120123147780116)](https://vk.com/id492851216) <a href="https://www.github.com/Meow-Double" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow-Double?logo=github&style=social-squaree&color=E0244D&labelColor=E0244D" /></a>
 
 
-<div align="left">
+
  
 <!-- <h4> ${\color{#ffffff} \textbf{ About me}}$ </h4> -->
 
-#### About me
+
+
+<div >
+  <img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ4aDl6d2M3MHRneGhkZ3ltamRzMWJxYzJpdWdvaHA2YXd2cWoxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" />
+<span align="left" width="60%">
+  <div>
+
+ #### About me
+
 
 - 👦 &nbsp;I'm Vyacheslav
 - 💻 &nbsp; Front-End developer
 - 💘 &nbsp; Loves coding, games, anime
 - 🎮 &nbsp; Hobbys - Web site coding, skiing, gymnasium 
-- ⌚ &nbsp; I'm 19 years old \
+- ⌚ &nbsp; I'm 19 years old 
+- 🏢 &nbsp; Work experience of 2 years \
 🦆🦆🦆🦆🦆🦆🦆
+
 </div>
+
+<br />
+
+
+ #### Playing now — Spotify 🎧
+ 
+<p> 
+ 
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e0244d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&redirect=true)
+</p>
+</span>
+
+
+
+
+
+<!-- <span align="left">
+ 
+[![Discord Presence](https://lanyard.kyrie25.me/api/461120123147780116)](https://discord.com/users/461120123147780116)
+</span> -->
+ 
+
+
+</div>
+
 
 <!-- <h4> ${\color{#ffffff} \textbf{ Language skills}}$ </h4>
 
@@ -50,23 +85,7 @@ Japanese: N5
 
 
 
-<div>
-<span align="left">
 
- #### Playing now — Spotify 🎧
- 
-<p> 
- 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e0244d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&redirect=true)
-</p>
-</span>
-
-<!-- <span align="left">
- 
-[![Discord Presence](https://lanyard.kyrie25.me/api/461120123147780116)](https://discord.com/users/461120123147780116)
-</span> -->
- 
-</div>
 
 
 
