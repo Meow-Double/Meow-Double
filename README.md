@@ -25,8 +25,8 @@
 
 
 <div >
-  <img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ4aDl6d2M3MHRneGhkZ3ltamRzMWJxYzJpdWdvaHA2YXd2cWoxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" />
-<span align="left" width="60%">
+<!--   <img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ4aDl6d2M3MHRneGhkZ3ltamRzMWJxYzJpdWdvaHA2YXd2cWoxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" /> -->
+<span align="left">
   <div>
 
  #### About me
