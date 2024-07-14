@@ -56,9 +56,8 @@ Japanese: N5
  #### Playing now — Spotify 🎧
  
 <p> 
- <a href="https://open.spotify.com/user/31zsfjazugx4nipzslbutk72oqwa">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=E0244D&bar_color_cover=false"/>
- </a>
+ 
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e0244d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&redirect=true)
 </p>
 </span>
 
