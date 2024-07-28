@@ -35,7 +35,7 @@
 - 👦 &nbsp;I'm Vyacheslav
 - 💻 &nbsp; Front-End developer
 - 💘 &nbsp; Loves coding, games, anime
-- 🎮 &nbsp; Hobbys - Web site coding, skiing, gymnasium 
+- 🎮 &nbsp; Hobbys - Website coding, skiing, gymnasium 
 - ⌚ &nbsp; I'm 19 years old 
 - 🏢 &nbsp; Work experience of 2 years \
 🦆🦆🦆🦆🦆🦆🦆
