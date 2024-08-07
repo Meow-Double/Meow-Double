@@ -99,6 +99,11 @@ Japanese: N5
 ![Gulp](https://img.shields.io/badge/Gulp-E0244D?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-E0244D?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-E0244D?style=for-the-badge&logo=Vite&logoColor=white) \
 ![Node](https://img.shields.io/badge/Node.Js-E0244D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-E0244D?style=for-the-badge&logo=Express&logoColor=white)
 
+
+<h4>📦 DataBase:</h4>
+
+![MongoDb](https://img.shields.io/badge/MongoDb-E0244D?style=for-the-badge&logo=MongoDb&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-E0244D?style=for-the-badge&logo=Postgresql&logoColor=white) 
+
 <h4>🔧 Testing:</h4>
 
 ![Jest](https://img.shields.io/badge/Jest-E0244D?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-E0244D?style=for-the-badge&logo=TestingLibrary&logoColor=white) 
