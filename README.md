@@ -96,13 +96,15 @@ Japanese: N5
 ![Css](https://img.shields.io/badge/CSS3-E0244D?style=for-the-badge&logo=css3&logoColor=white) ![Sass/Scss](https://img.shields.io/badge/Sass/Scss-E0244D?style=for-the-badge&logo=sass&logoColor=white) ![Styled-components](https://img.shields.io/badge/Styled--components-E0244D?style=for-the-badge&logo=styled-components&logoColor=white) ![Css-Modules](https://img.shields.io/badge/Css--Modules-E0244D?style=for-the-badge&logo=css-modules&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-E0244D?style=for-the-badge&logo=Tailwindcss&logoColor=white) \
 ![Javascript](https://img.shields.io/badge/JavaScript-E0244D?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-E0244D?style=for-the-badge&logo=typescript&logoColor=white) \
 ![JQuery](https://img.shields.io/badge/JQuery-E0244D?style=for-the-badge&logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-E0244D?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-E0244D?style=for-the-badge&logo=redux&logoColor=white) ![React-router-dom](https://img.shields.io/badge/React--router--dom-E0244D?style=for-the-badge&logo=react-router&logoColor=white) ![React-hook-form](https://img.shields.io/badge/React--hook--form-E0244D?style=for-the-badge&logo=react-hook-form&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-E0244D?style=for-the-badge&logo=React-query&logoColor=white) \
-![Gulp](https://img.shields.io/badge/Gulp-E0244D?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-E0244D?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-E0244D?style=for-the-badge&logo=Vite&logoColor=white) \
-![Node](https://img.shields.io/badge/Node.Js-E0244D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-E0244D?style=for-the-badge&logo=Express&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-E0244D?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-E0244D?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-E0244D?style=for-the-badge&logo=Vite&logoColor=white)
 
 
-<h4>📦 DataBase:</h4>
 
-![MongoDb](https://img.shields.io/badge/MongoDb-E0244D?style=for-the-badge&logo=MongoDb&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-E0244D?style=for-the-badge&logo=Postgresql&logoColor=white) 
+<h4>📦 Backe-end:</h4>
+
+![Node](https://img.shields.io/badge/Node.Js-E0244D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-E0244D?style=for-the-badge&logo=Express&logoColor=white) ![socketdotio](https://img.shields.io/badge/Socket.io-E0244D?style=for-the-badge&logo=socketdotio&logoColor=white) \
+![MongoDb](https://img.shields.io/badge/MongoDb-E0244D?style=for-the-badge&logo=MongoDb&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-E0244D?style=for-the-badge&logo=Postgresql&logoColor=white) \
+![sequelize](https://img.shields.io/badge/Sequelize-E0244D?style=for-the-badge&logo=sequelize&logoColor=white) ![prisma](https://img.shields.io/badge/Prisma-E0244D?style=for-the-badge&logo=prisma&logoColor=white) 
 
 <h4>🔧 Testing:</h4>
 
