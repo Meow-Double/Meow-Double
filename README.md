@@ -100,7 +100,7 @@ Japanese: N5
 
 
 
-<h4>📦 Backe-end:</h4>
+<h4>📦 Back-end:</h4>
 
 ![Node](https://img.shields.io/badge/Node.Js-E0244D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-E0244D?style=for-the-badge&logo=Express&logoColor=white) ![socketdotio](https://img.shields.io/badge/Socket.io-E0244D?style=for-the-badge&logo=socketdotio&logoColor=white) \
 ![MongoDb](https://img.shields.io/badge/MongoDb-E0244D?style=for-the-badge&logo=MongoDb&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-E0244D?style=for-the-badge&logo=Postgresql&logoColor=white) \
