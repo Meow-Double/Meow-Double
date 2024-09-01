@@ -178,6 +178,7 @@ I start a joint project with a friend where I become a team leader. Soon we fini
 | Name Projects | Status | Links |
 | ------------- | ------------- | ------------- |
 | <a href="https://github.com/ResEmCode/Freelance-Exchange">Freelance-Exchange</a> | `in work` | <a href="https://resemcode.github.io/Freelance-Exchange">view</a> |
+| <a href="https://github.com/Meow-Double/DevSearch-client">DevSearch app</a> | `in work` | <a href="#!">view</a> |
 
 </div>
 
