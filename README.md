@@ -185,9 +185,9 @@ I start a joint project with a friend where I become a team leader. Soon we fini
 
   ### Solo Projects
    
-| Name Projects | Status | Links |
-| ------------- | ------------- | ------------- |
-| <a href="https://github.com/Meow-Double/DevSearch-client">DevSearch app</a> | `in work` | <a href="#!">view</a> |
+| Name Projects | Status | Links | release |
+| ------------- | ------------- | ------------- | ------------- |
+| <a href="https://github.com/Meow-Double/DevSearch-client">DevSearch app</a> | `in work` | <a href="#!">view</a> | in a month |
 
 </div>
 
