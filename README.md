@@ -102,7 +102,7 @@ Japanese: N5
 
 <h4>📦 Back-end:</h4>
 
-![nestjs](https://img.shields.io/badge/nestjs-E0244D?style=for-the-badge&logo=nestjs&logoColor=white) ![Node](https://img.shields.io/badge/Node.Js-E0244D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-E0244D?style=for-the-badge&logo=Express&logoColor=white) ![socketdotio](https://img.shields.io/badge/Socket.io-E0244D?style=for-the-badge&logo=socketdotio&logoColor=white) \
+![nestjs](https://img.shields.io/badge/nestjs-E0244D?style=for-the-badge&logo=nestjs&logoColor=white) ![Node](https://img.shields.io/badge/NodeJs-E0244D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-E0244D?style=for-the-badge&logo=Express&logoColor=white) ![socketdotio](https://img.shields.io/badge/Socket.io-E0244D?style=for-the-badge&logo=socketdotio&logoColor=white) \
 ![MongoDb](https://img.shields.io/badge/MongoDb-E0244D?style=for-the-badge&logo=MongoDb&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-E0244D?style=for-the-badge&logo=Postgresql&logoColor=white) \
 ![mongoose](https://img.shields.io/badge/mongoose-E0244D?style=for-the-badge&logo=mongoose&logoColor=white)  ![sequelize](https://img.shields.io/badge/Sequelize-E0244D?style=for-the-badge&logo=sequelize&logoColor=white) ![prisma](https://img.shields.io/badge/Prisma-E0244D?style=for-the-badge&logo=prisma&logoColor=white) 
 
