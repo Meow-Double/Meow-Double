@@ -37,7 +37,7 @@
 - 💘 &nbsp; Loves coding, games, anime
 - 🎮 &nbsp; Hobbys - Website coding, skiing, gymnasium 
 - ⌚ &nbsp; I'm 19 years old 
-- 🏢 &nbsp; Work experience of 2 years \
+- 🏢 &nbsp; Work experience of 2,4 years \
 🦆🦆🦆🦆🦆🦆🦆
 
 </div>
