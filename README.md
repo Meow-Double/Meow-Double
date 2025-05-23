@@ -6,7 +6,7 @@
 <!-- <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://i.gifer.com/3BBF.gif" width="30">
 </em></p> -->
-<div align="center"> <img src="https://github.com/Meow-Double/Meow-Double/blob/main/baners/baner-v3.png"/>
+<div align="center"> <img src="https://github.com/Meow-Double/Meow-Double/blob/main/baners/baner-v4.png"/>
 </div>
  <h2 >Hello world 👋, Welcome to my profile </h2> 
 <!-- <div align="center"><i>I'm a Front-End developer</i></div> -->
