@@ -1,8 +1,4 @@
 
-
-
-
-
 <!-- <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://i.gifer.com/3BBF.gif" width="30">
 </em></p> -->
@@ -15,7 +11,7 @@
 <!-- <img src="./assets/EyesCoding.gif" align="left" width="460" height="280"> -->
 <!-- <p>Technology:</p> -->
 <!-- <span> -->
-[![Linkedin: Vyacheslav](https://img.shields.io/badge/-Linkedin-E0244D?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Linkedin-pugachev-7843292b1/)](https://www.linkedin.com/in/vyacheslav-pugachev-7843292b1/) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Telegram-E0244D?style=social-square&logo=Telegram&logoColor=white&link=https://t.me/Meow_Double)](https://t.me/Meow_Double) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Vkontakte-E0244D?style=social-square&logo=Vk&logoColor=white&link=https://vk.com/id492851216)](https://vk.com/id492851216) [![Discord: Vyacheslav](https://img.shields.io/badge/-Discord-E0244D?style=social-square&logo=discord&logoColor=white&link=https://discordapp.com/users/461120123147780116)](https://vk.com/id492851216) <a href="https://www.github.com/Meow-Double" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow-Double?logo=github&style=social-squaree&color=E0244D&labelColor=E0244D" /></a>
+[![Linkedin: Vyacheslav](https://img.shields.io/badge/-Linkedin-A21A16?style=social-square&logo=invision&logoColor=white&link=https://www.linkedin.com/in/Linkedin-pugachev-7843292b1/)](https://www.linkedin.com/in/vyacheslav-pugachev-7843292b1/) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Telegram-A21A16?style=social-square&logo=Telegram&logoColor=white&link=https://t.me/Meow_Double)](https://t.me/Meow_Double) [![Linkedin: Vyacheslav](https://img.shields.io/badge/-Vkontakte-A21A16?style=social-square&logo=Vk&logoColor=white&link=https://vk.com/id492851216)](https://vk.com/id492851216) [![Discord: Vyacheslav](https://img.shields.io/badge/-Discord-A21A16?style=social-square&logo=discord&logoColor=white&link=https://discordapp.com/users/461120123147780116)](https://vk.com/id492851216) <a href="https://www.github.com/Meow-Double" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Meow-Double?logo=github&style=social-squaree&color=A21A16&labelColor=A21A16" /></a>
 
 
 
@@ -37,25 +33,11 @@
 - 💘 &nbsp; Loves coding, games, anime
 - 🎮 &nbsp; Hobbys - Website coding, skiing, gymnasium 
 - ⌚ &nbsp; I'm 19 years old 
-- 🏢 &nbsp; Work experience of 2,4 years \
-🦆🦆🦆🦆🦆🦆🦆
+- 🏢 &nbsp; Work experience of 3 years
 
 </div>
 
 <br />
-
-
- #### Playing now — Spotify 🎧
- 
-<p> 
- 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=e0244d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsfjazugx4nipzslbutk72oqwa&redirect=true)
-</p>
-</span>
-
-
-
-
 
 <!-- <span align="left">
  
@@ -66,6 +48,13 @@
 
 </div>
 
+
+
+
+## My packages ![NPM: Vyacheslav](https://img.shields.io/badge/-A21A16?style=social-square&logo=npm&logoColor=white&link=https://www.linkedin.com/in/Linkedin-pugachev-7843292b1/)
+
+- ### [🐕 Hatiko-UI](https://github.com/Meow-Double/Hatiko-UI)
+  UI components library for React
 
 <!-- <h4> ${\color{#ffffff} \textbf{ Language skills}}$ </h4>
 
@@ -86,9 +75,10 @@ Japanese: N5
 
 
 
+<br />
 
 
-
+## My technologies
 
 <h4>💻 Tech stack:</h4>
 
@@ -125,74 +115,6 @@ Japanese: N5
 ![Jira](https://img.shields.io/badge/Jira-E0244D?style=for-the-badge&logo=Jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-E0244D?style=for-the-badge&logo=ClickUp&logoColor=white) \
 ![confluence](https://img.shields.io/badge/confluence-E0244D?style=for-the-badge&logo=confluence&logoColor=white) ![notion](https://img.shields.io/badge/notion-E0244D?style=for-the-badge&logo=notion&logoColor=white) 
 <br/>
-
-
-<details>
-  <summary><strong>My statistics</strong></summary>
-
-  <br />
-  <div align="left">
-
- ![meow-double's Stats](https://github-readme-stats.vercel.app/api?username=meow-double&theme=radical&show_icons=true&hide_border=false&count_private=true)
- 
-![meow-double's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meow-double&theme=radical&hide_border=false)
- 
-![meow-double's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meow-double&theme=radical&show_icons=true&hide_border=false&layout=compact)
-
-</div>
-
-</details>
-
-
-<details>
-  <summary><strong>My Roadmap</strong></summary>
-
-
- ### Era I - Beginning of the journey
-July 27, 2022 I am starting to learn the frontend. I learn html and css first. After that, I start making my first website by video. It took about a month to do all this. Then practice starts, during which I improve my layout knowledge and learn BEM methodology. After 3 months I start learning JavaScript base of the language, then the browser part. I consolidate JavaScript in practice. After 5 months I start learning Gulp and Scss. After a couple weeks I learn jQuery. Practicing on projects where I learn how to use jQuery plugins for quick implementation. After 7 months, I start learning Git. The way forward is practicing and learning different JS libraries. This is how I get acquainted with Gsap from GreenSock and start animating my projects. 
-
-### Era II - Abundant Learning
-The next phase is an abundant study of JS. In late spring, I begin to improve my knowledge of JavaScript. I implement custom UI elements - popups, modals, dropdowns, accordions, tooltips, checkboxes, selectors, drag & drop, etc.
-After that, I increase my experience and move on to learning algorithms. 
-
-### Era III - The Path to Junior
-I started learning React a year later - October 1, 2023. I familiarized myself with the concepts of Jsx, props, functional components, rendering, component lifecycle, virtual DOM tree, hooks. After that I implement my first projects.
-Then I learn Redux. After that I quickly dive into learning Redux Toolkit and TypeScript. I learn all this and make my first project on TS (spoiler - the project turned out terrible). I join my first organization where I learn how to work as a team. There I get a little commercial experience, as well as teamwork skills. Soon I leave the organization as the project failed. 
-
-### Era IV - Rethinking code
-I'm starting to familiarize myself with the FSD architecture. I implement a couple of projects on it. After that I start to get fascinated by this approach. Then I watch videos of various youtubers and realize that my code is not perfect. After revisiting my code and projects, I start practicing abundantly. As I practice, I chase clean code, so I learn approach principles like SOLID, KIS, DRY. I'm rethinking typing in TypeScript. As a result, I'm mastering tools for implementing clean code - prettier and eslint. I start not just writing code, but thinking about how to reuse it, how to bring it out. I also realize that FSD should not be dragged into all projects.
-
-### Era V - Mastering the server language
-I start a joint project with a friend where I become a team leader. Soon we finish with the implementation of the client side. What is left is to make the backend and connect it to the client. Since I don't have friends and skills in backend, I start mastering it on my own. 
-</details>
-
-
-
-<details>
-  <summary><strong>My pet projects</strong></summary>
-
-  <div align="left">
-
-  ### Team Projects
-   
-| Name Projects | Status | Links |
-| ------------- | ------------- | ------------- |
-| <a href="https://github.com/ResEmCode/Freelance-Exchange">Freelance-Exchange</a> | `in work` | <a href="https://resemcode.github.io/Freelance-Exchange">view</a> |
-
-</div>
-
-<div align="left">
-
-  ### Solo Projects
-   
-| Name Projects | Status | Links | release |
-| ------------- | ------------- | ------------- | ------------- |
-| <a href="https://github.com/Meow-Double/DevSearch-client">DevSearch app</a> | `in work` | <a href="#!">view</a> | in a month |
-
-</div>
-
-</details>
-
 
 
 <!-- ### 📋 My Resume: soon... -->
