@@ -86,8 +86,8 @@ Japanese: N5
 ![Css](https://img.shields.io/badge/CSS3-E0244D?style=for-the-badge&logo=css3&logoColor=white) ![Sass/Scss](https://img.shields.io/badge/Sass/Scss-E0244D?style=for-the-badge&logo=sass&logoColor=white) ![Styled-components](https://img.shields.io/badge/Styled--components-E0244D?style=for-the-badge&logo=styled-components&logoColor=white) ![Css-Modules](https://img.shields.io/badge/Css--Modules-E0244D?style=for-the-badge&logo=css-modules&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-E0244D?style=for-the-badge&logo=Tailwindcss&logoColor=white) \
 ![Javascript](https://img.shields.io/badge/JavaScript-E0244D?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-E0244D?style=for-the-badge&logo=typescript&logoColor=white) \
 ![React](https://img.shields.io/badge/React-E0244D?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-E0244D?style=for-the-badge&logo=redux&logoColor=white) ![React-router-dom](https://img.shields.io/badge/React--router--dom-E0244D?style=for-the-badge&logo=react-router&logoColor=white) ![React-hook-form](https://img.shields.io/badge/React--hook--form-E0244D?style=for-the-badge&logo=react-hook-form&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-E0244D?style=for-the-badge&logo=React-query&logoColor=white) \
-![Gulp](https://img.shields.io/badge/Gulp-E0244D?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-E0244D?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-E0244D?style=for-the-badge&logo=Vite&logoColor=white)
-
+![Gulp](https://img.shields.io/badge/Gulp-E0244D?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-E0244D?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-E0244D?style=for-the-badge&logo=Vite&logoColor=white) \
+![socketdotio](https://img.shields.io/badge/Socket.io-E0244D?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
 <h4>📦 Back-end:</h4>
@@ -98,7 +98,7 @@ Japanese: N5
 
 <h4>🔧 Testing:</h4>
 
-![Jest](https://img.shields.io/badge/Jest-E0244D?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-E0244D?style=for-the-badge&logo=TestingLibrary&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-E0244D?style=for-the-badge&logo=Jest&logoColor=white) ![Testing library](https://img.shields.io/badge/Testing_Library-E0244D?style=for-the-badge&logo=TestingLibrary&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-E0244D?style=for-the-badge&logo=Vitest&logoColor=white)  ![Storybook](https://img.shields.io/badge/Storybook-E0244D?style=for-the-badge&logo=Storybook&logoColor=white)
 
 <h4>📃 Code quality:</h4>
 
