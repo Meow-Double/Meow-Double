@@ -32,7 +32,7 @@
 - 💻 &nbsp; Front-End developer
 - 💘 &nbsp; Loves coding, games, anime
 - 🎮 &nbsp; Hobbys - Website coding, skiing, gymnasium 
-- ⌚ &nbsp; I'm 19 years old 
+- ⌚ &nbsp; I'm 21 years old 
 - 🏢 &nbsp; Work experience of 3 years
 
 </div>
