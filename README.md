@@ -33,7 +33,7 @@
 - 💘 &nbsp; Loves coding, games, anime
 - 🎮 &nbsp; Hobbys - Website coding, skiing, gymnasium 
 - ⌚ &nbsp; I'm 21 years old 
-- 🏢 &nbsp; Work experience of 3 years
+- 🏢 &nbsp; 2 years of self-learn
 
 </div>
 
@@ -82,10 +82,10 @@ Japanese: N5
 
 <h4>💻 Tech stack:</h4>
 
-![Html](https://img.shields.io/badge/HTML5-E0244D?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-E0244D?style=for-the-badge&logo=bootstrap&logoColor=white) ![UIkit](https://img.shields.io/badge/UIkit-E0244D?style=for-the-badge&logo=UIkit&logoColor=white) ![Gsap](https://img.shields.io/badge/Gsap-E0244D?style=for-the-badge&logo=greensock&logoColor=white) \
+![Html](https://img.shields.io/badge/HTML5-E0244D?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-E0244D?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gsap](https://img.shields.io/badge/Gsap-E0244D?style=for-the-badge&logo=greensock&logoColor=white) \
 ![Css](https://img.shields.io/badge/CSS3-E0244D?style=for-the-badge&logo=css3&logoColor=white) ![Sass/Scss](https://img.shields.io/badge/Sass/Scss-E0244D?style=for-the-badge&logo=sass&logoColor=white) ![Styled-components](https://img.shields.io/badge/Styled--components-E0244D?style=for-the-badge&logo=styled-components&logoColor=white) ![Css-Modules](https://img.shields.io/badge/Css--Modules-E0244D?style=for-the-badge&logo=css-modules&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-E0244D?style=for-the-badge&logo=Tailwindcss&logoColor=white) \
 ![Javascript](https://img.shields.io/badge/JavaScript-E0244D?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-E0244D?style=for-the-badge&logo=typescript&logoColor=white) \
-![React](https://img.shields.io/badge/React-E0244D?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-E0244D?style=for-the-badge&logo=redux&logoColor=white) ![React-router-dom](https://img.shields.io/badge/React--router--dom-E0244D?style=for-the-badge&logo=react-router&logoColor=white) ![React-hook-form](https://img.shields.io/badge/React--hook--form-E0244D?style=for-the-badge&logo=react-hook-form&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-E0244D?style=for-the-badge&logo=React-query&logoColor=white) \
+![React](https://img.shields.io/badge/React-E0244D?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-E0244D?style=for-the-badge&logo=redux&logoColor=white) ![React-router-dom](https://img.shields.io/badge/React--router--dom-E0244D?style=for-the-badge&logo=react-router&logoColor=white) ![React-hook-form](https://img.shields.io/badge/React--hook--form-E0244D?style=for-the-badge&logo=react-hook-form&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-E0244D?style=for-the-badge&logo=React-query&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-E0244D?style=for-the-badge&logo=Zustand&logoColor=white)\
 ![Gulp](https://img.shields.io/badge/Gulp-E0244D?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-E0244D?style=for-the-badge&logo=webpack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-E0244D?style=for-the-badge&logo=Vite&logoColor=white) \
 ![socketdotio](https://img.shields.io/badge/Socket.io-E0244D?style=for-the-badge&logo=socketdotio&logoColor=white)
 
